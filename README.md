@@ -37,3 +37,4 @@ includes courses and notes.
 + [ ]  note [R-datacamp-skills-track-r-programming](/R-datacamp-skills-track-r-programming.md)
 + [x]  ntoe [R-notes](/R-notes.md)
 
+## SQL
